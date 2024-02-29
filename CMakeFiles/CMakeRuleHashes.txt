@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+b5e5fd659b7bc30ac8e9d0be7d4d9650 CMakeFiles/ChatRoomClient_autogen
+52fa0adfab42f3882ddf66f11b1c71a7 CMakeFiles/ChatRoomServer_autogen

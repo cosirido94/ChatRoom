@@ -1,0 +1,59 @@
+/* Stile globale per il tuo dialogo */
+QDialog {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Titolo */
+/* QLabel#titleLabel {
+    text-align: center;
+    font-size: 40px;
+} */
+QLabel
+{
+    font-size: 40px;
+}
+
+/* Etichette */
+QLabel#ipLabel, QLabel#portLabel {
+    font-size: 26px;
+    color: #333;
+}
+
+/* Input di testo */
+QLineEdit {
+    font-size: 14px;
+    color: #333;
+    background-color: #fff;
+}
+
+/* Stato del server */
+QLabel#serverStatusLabel {
+    font-size: 16px;
+}
+
+/* Indicatore di stato */
+QLabel#statusIndicator {
+    width: 16px;
+    height: 16px;
+    background-color: red;
+    border-radius: 8px;
+}
+
+/* Pulsante Start/Stop Server */
+QPushButton#startServerButton {
+    font-size: 14px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+QPushButton#startServerButton[running="true"] {
+    background-color: green;
+}
+
+QPushButton#startServerButton[running="false"] {
+    background-color: red;
+}

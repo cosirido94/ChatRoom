@@ -1,0 +1,10 @@
+# ninja log v5
+0	11	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+1358	1701	1696512064240191201	ChatRoom	4b24758911ff0a84
+1	40	1696512062576161431	/home/ilcondor/Documenti/CLionProjects/Test-Project-21-22/ChatRoom/cmake-build-debug/ChatRoom_autogen/mocs_compilation.cpp	72ea90da857fd6e3
+1	40	1696512062576161431	ChatRoom_autogen/mocs_compilation.cpp	72ea90da857fd6e3
+40	54	1696512062596161789	CMakeFiles/ChatRoom.dir/ChatRoom_autogen/mocs_compilation.cpp.o	473df05f97a5d41c
+1	40	1696512062576161431	ChatRoom_autogen/timestamp	72ea90da857fd6e3
+11	14	0	clean	690b186f5f2dc854
+1	40	1696512062576161431	/home/ilcondor/Documenti/CLionProjects/Test-Project-21-22/ChatRoom/cmake-build-debug/ChatRoom_autogen/timestamp	72ea90da857fd6e3
+40	1358	1696512063900185120	CMakeFiles/ChatRoom.dir/main.cpp.o	f4d917a0b4129ce1

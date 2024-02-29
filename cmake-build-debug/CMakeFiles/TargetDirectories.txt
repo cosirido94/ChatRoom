@@ -1,0 +1,6 @@
+/home/ilcondor/Documenti/CLionProjects/Test-Project-21-22/ChatRoom/cmake-build-debug/CMakeFiles/ChatRoomServer.dir
+/home/ilcondor/Documenti/CLionProjects/Test-Project-21-22/ChatRoom/cmake-build-debug/CMakeFiles/ChatRoomClient.dir
+/home/ilcondor/Documenti/CLionProjects/Test-Project-21-22/ChatRoom/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilcondor/Documenti/CLionProjects/Test-Project-21-22/ChatRoom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilcondor/Documenti/CLionProjects/Test-Project-21-22/ChatRoom/cmake-build-debug/CMakeFiles/ChatRoomServer_autogen.dir
+/home/ilcondor/Documenti/CLionProjects/Test-Project-21-22/ChatRoom/cmake-build-debug/CMakeFiles/ChatRoomClient_autogen.dir
